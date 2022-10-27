@@ -6,5 +6,5 @@
   ### a) weekly team statistic data (ex. 2019week1.csv)
   ### b) yearly betting lines/odds data (ex. 2019lines.csv)
   ### c) yearly game dates data (ex. 2019gameDates)
-  ### d) a ready to run R markdown file (cfbModel.Rmd) that predicts future games & identifies profitable decisions in the betting market
+  ### d) a ready to run R markdown file that predicts future games & identifies profitable decisions in the betting market (cfbModel.Rmd)
   ### e) a compiled PDF version of the R markdown file (cfbModel.pdf)

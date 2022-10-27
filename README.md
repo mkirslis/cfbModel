@@ -1,7 +1,7 @@
 ### cfbModel
 ### This repository & its files are meant for use at a meeting of the UMass Data Science CLub on 10/27/2022
 ### 
-### CONTENTS
+### CONTENTS:
 ### 4 years of Divison 1 college football data (2019-2022):
   ### a) weekly game data (ex. 2019week1.csv)
   ### b) yearly betting lines/odds (ex. 2019lines.csv)
